@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@500&family=Nunito&display=swap');
+.judul {
+    font-family: sans-serif;
+    color: white;
+    text-align: center;
+}
+
+body {
+    background: url(./meme3.png.png)
+
+}
+.jlirik{
+    font-size: x-large;
+    text-align: center;
+    color: white;
+}
+.lirik{
+    color: white;
+    text-align: center;
+    font-family: 'Heebo' sans-serif;
+    font-size: larger;
+}
+
+.lagu {
+    display: block;
+    position: relative;
+    text-align: center;
+    color: black;
+}
