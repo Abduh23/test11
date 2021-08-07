@@ -33,6 +33,11 @@ html {
     position: relative;
     text-align: center
 }
+.lagu{
+    display: block;
+    position: relative;
+    text-align: center;
+}
 .credit a{
     position: relative;
     color: white;
