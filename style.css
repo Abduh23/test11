@@ -27,13 +27,8 @@ html {
     font-family: 'Heebo' sans-serif;
     font-size: larger;
 }
-
-.lirik source {
-    display: block;
-    position: relative;
-    text-align: center
-}
 .lagu{
+    display: block;
     position: relative;
     text-align: center;
 }
