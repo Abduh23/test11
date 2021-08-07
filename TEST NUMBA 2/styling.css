@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@300&display=swap');
+body {
+    background: #3c6382
+}
+.friend1{
+    position: relative;
+    padding: 20px;
+    padding-left: 100px;
+
+
+}
+.image_border {
+    border-radius: 50%;
+    float: left;
+}
+.friend1name{
+    position: relative;
+    color: white;
+    text-align: left;
+    font-family: 'Heebo', sans-serif;
+    font-size: 60px;
+    color: black;
+}
+.tenvy_git a{
+    color: white;
+    text-align: center;
+    font-family: 'Heebo', sans-serif;
+    position: relative;
+    float: left;
+    left: 25px;
+    bottom: 50px;
+    font-size: xx-large;
+}
+.friend2{
+    position: relative;
+    padding: 20px;
+    padding-left: 100px;
+}
+.friend2_border{
+    position: absolute;
+    float: left;
+    border-radius: 100%;
+    left: 100px;
+    padding: auto;
+    margin-top: 240px;
+}
+.friend2name{
+    position: relative;
+    color: white;
+    text-align: left;
+    left: 15px;
+    top: 300px;
+    font-family: 'Heebo', sans-serif;
+    font-size: 60px;
+    color: black;
+}
+.satpol_git a{
+    color: white;
+    text-align: center;
+    font-family: 'Heebo', sans-serif;
+    position: relative;
+    float: left;
+    left: 590px;
+    top: 250px;
+    bottom: 5px;
+    font-size: xx-large;
+}
+.thanksto{
+    color: white;
+    position: relative;
+    left: 700px;
+    font-size: xx-large;
+    font-size: xx-large;
+    font-family: 'Heebo', sans-serif;
+}
+.back a{
+    position: absolute;
+    text-align: left;
+    font-family: 'Heebo', sans-serif;
+    font-size: large;
+    top: 0;
+    color: white;
+    text-decoration: none
+}
