@@ -4,11 +4,18 @@
     color: white;
     text-align: center;
 }
-
-body {
-    background-image: url(./meme3.png.png);
-
+html, body {
+    height: 100%;
 }
+html {
+    min-height: 100%;
+    background-image: url(./meme3.png.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
 .jlirik{
     font-size: x-large;
     text-align: center;
@@ -21,7 +28,7 @@ body {
     font-size: larger;
 }
 
-.lagu {
+.lirik source {
     display: block;
     position: relative;
     text-align: center
